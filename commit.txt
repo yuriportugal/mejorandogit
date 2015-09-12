@@ -1,0 +1,29 @@
+commit 0d1d5a047169f78aaf338f05fa77f5458e207218
+Author: Yuri Portugal <y.portugal@pucp.pe>
+Date:   Sat Sep 12 17:49:30 2015 -0500
+
+    descripcion
+
+commit 6beb2ce4b9494ac4a9fe9ed51115bcfe95a27207
+Author: Yuri Portugal <y.portugal@pucp.pe>
+Date:   Sat Sep 12 17:48:38 2015 -0500
+
+    redes
+
+commit c7856e35c418b43d5eb6206762937d709271bd64
+Author: Yuri Portugal <y.portugal@pucp.pe>
+Date:   Sat Sep 12 17:45:59 2015 -0500
+
+    Perfil web
+
+commit 98a285ad2c80d65e2f27842a6a54d6b734117681
+Author: Yuri Portugal <y.portugal@pucp.pe>
+Date:   Sat Sep 12 17:42:10 2015 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit 228f87b67b87e5bfb653cd4fec873dbd88e5e258
+Author: Yuri Portugal <y.portugal@pucp.pe>
+Date:   Sat Sep 12 17:36:34 2015 -0500
+
+    estos son los archivos base de mi portafolio
